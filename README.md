@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=AI+%26+ML+Student;Python+Full+Stack+Developer;Generative+AI+Enthusiast;Open+Source+Learner;Future+AI+Engineer)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Madan Mohan</h1>
 
 <h3 align="center">
@@ -6,106 +8,105 @@ AI & ML Student | Python Full Stack Developer | Generative AI Enthusiast
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mokkamadanmohan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
+
   <a href="https://github.com/MadanMohan-M">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 B.Tech Student (AI & ML)
+🎓 AI & ML Undergraduate Student
 
-📊 CGPA: 8.7
+💻 Learning **Python Full Stack Development**
 
-💻 Learning Python Full Stack Development
+🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
 
-🤖 Interested in Artificial Intelligence, Machine Learning & Generative AI
+🌱 Currently learning **Data Structures & Algorithms**
 
-🌱 Currently learning Data Structures & Algorithms
+🎯 Aspiring **Software Engineer / AI Engineer**
 
-🎯 Goal: Software Engineer / AI Engineer
+🚀 Always exploring new technologies and building practical solutions
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+## Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+---
+
+## Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend
-![Python](https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+---
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+## Backend Development
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Databases
 
-### 📄 AI Resume Analyzer
-- Resume Parsing
-- ATS Score Analysis
-- Skill Extraction
-- Streamlit Deployment
-
-### 💰 Personal Finance Dashboard
-- Expense Categorization
-- Interactive Charts
-- FastAPI Backend
-
-### 🤖 Daily Tech News Automation
-- n8n Workflow
-- Telegram/WhatsApp Integration
-- Automated News Delivery
-
-### 🏏 Cricket Community App (In Progress)
-- Nearby Box Cricket Grounds
-- Tournament Discovery
-- Team Recruitment
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## Cloud & DevOps
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MadanMohan-M&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadanMohan-M&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadanMohan-M&layout=compact&theme=tokyonight" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+## AI / Machine Learning
 
-💼 LinkedIn:
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+# 💡 Current Focus
+
+🔹 Python Full Stack Development
+
+🔹 Data Structures & Algorithms (Java)
+
+🔹 Generative AI
+
+🔹 Machine Learning
+
+🔹 Cloud & DevOps
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn:  
 https://www.linkedin.com/in/mokkamadanmohan/
 
-📧 Email:
-your-email@gmail.com
+🐙 GitHub:  
+https://github.com/MadanMohan-M
 
 ---
 
-⭐ Always interested in learning new technologies and building impactful projects.
+⭐ Learning, Building, and Growing Every Day.
