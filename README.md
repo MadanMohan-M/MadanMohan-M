@@ -20,7 +20,7 @@ AI & ML Student | Python Full Stack Developer | Generative AI Enthusiast
 
 # 🚀 About Me
 
-🎓 AI & ML Undergraduate Student
+🎓 AI & ML graduate Student
 
 💻 Learning **Python Full Stack Development**
 
