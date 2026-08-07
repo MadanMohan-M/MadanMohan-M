@@ -18,7 +18,7 @@ AI & ML Student | Python Full Stack Developer | Generative AI Enthusiast
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 🎓 AI & ML graduate Student
 
@@ -34,7 +34,7 @@ AI & ML Student | Python Full Stack Developer | Generative AI Enthusiast
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ## Programming Languages
 
@@ -85,7 +85,7 @@ AI & ML Student | Python Full Stack Developer | Generative AI Enthusiast
 
 ---
 
-# 💡 Current Focus
+#  Current Focus
 
 🔹 Python Full Stack Development
 
@@ -99,14 +99,14 @@ AI & ML Student | Python Full Stack Developer | Generative AI Enthusiast
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
-💼 LinkedIn:  
+ LinkedIn:  
 https://www.linkedin.com/in/mokkamadanmohan/
 
-🐙 GitHub:  
+ GitHub:  
 https://github.com/MadanMohan-M
 
 ---
 
-⭐ Learning, Building, and Growing Every Day.
+ Learning, Building, and Growing Every Day.
